@@ -1,14 +1,14 @@
 # 💫 About Me:
 ## 👋 Hi, I’m Koushik!<br>
-🎓 Electrical & Electronics Engineering (EEE) Student<br>💻 Software + Game Dev Enthusiast<br>🚀 Learning by building, experimenting, and solving problems<br><br>
+🎓 Electrical & Electronics Engineering (EEE) Student<br>💻 Software Enthusiast<br>🚀 Learning by building, experimenting, and solving problems<br><br>
 ## 🧠 About Me<br>
-I’m an EEE undergraduate with a strong interest in software development and problem solving.<br>While my academic background is in electronics and electrical systems, I actively explore coding, data structures, and game development.<br><br>I enjoy understanding systems—whether it’s circuits, code, or game mechanics—and figuring out how things work under the hood.<br><br>
+I’m an EEE undergraduate with a strong interest in software development and problem solving.<br>While my academic background is in electronics and electrical systems, I actively explore coding and DSA. <br><br>I enjoy understanding systems—whether it’s circuits, or code—and figuring out how things work under the hood.<br><br>
 ## 💻 Programming<br>
-C++<br>HTML<br>Cascading Style Sheets (CSS)<br>JavaScript (basics)<br><br>🎮 Game Development<br>Unity (2D beginner-level)<br>Physics-based gameplay & scripting<br><br>🛠 Tools<br>Git & GitHub<br>Visual Studio / VS Code<br>
+C++<br>HTML<br>Cascading Style Sheets (CSS)<br>JavaScript (basics)<br><br>🛠 Tools<br>Git & GitHub<br>Visual Studio / VS Code<br>
 ## 🎯 Interests<br>
-Game Development<br>Data Structures & Algorithms<br>Problem Solving & Optimization<br><br>
+Data Structures & Algorithms<br>Problem Solving & Optimization<br><br>
 ## 📈 Currently Working On<br>
-Strengthening DSA concepts<br>Building Unity game projects<br>Improving coding discipline & efficiency<br>Preparing for internships & technical opportunities<br>
+Strengthening DSA concepts<br>Improving coding discipline & efficiency<br>Preparing for internships & technical opportunities<br>
 ## 🌱 Goals
 Become a strong engineer in software skills<br>Build meaningful projects that strengthen my base<br>Gain industry experience through internships<br>Keep learning consistently and practically<br>
 ## 🤝 Let’s Connect<br>
